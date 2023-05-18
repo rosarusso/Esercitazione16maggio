@@ -66,6 +66,3 @@ Le sezioni possono essere create inserendo un `#` prima del titolo della sezione
 Il codice può essere inserito delimitandolo con tre backtick `.
 
 Le citazioni possono essere fatte aggiungendo `>` prima del testo.
-
-# Prova push con token
-
